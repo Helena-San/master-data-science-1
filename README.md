@@ -1,6 +1,6 @@
 # master-data-science
 
-Y empiezo a escribir lo que sea
+Y empiezo a escribir todo
 
 Lo importante es escribir cosas, varias líneas si es posible
 
